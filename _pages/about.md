@@ -20,7 +20,7 @@ Email: weihaosun@mail.hfut.edu.cn
 ## Research Interests
 - Large Language Models for Combinatorial Optimization  
 - Satellite Observation Scheduling  
-- Value Alignment in Large Language Models  
+- Multi Value Alignment in Large Language Models  
 ---
 ## Research Focus
 My research explores the integration of large language models (LLMs) with complex optimization and decision-making problems, with an emphasis on:
