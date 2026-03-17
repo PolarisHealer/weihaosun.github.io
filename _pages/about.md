@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Weihao Sun
-
 Ph.D. Student, Management Science and Engineering  
 School of Management, Hefei University of Technology  
 
