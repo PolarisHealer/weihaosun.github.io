@@ -21,7 +21,7 @@ social: true  # 显示社交链接
 
 ## About Me
 
-I am a Ph.D. candidate in Management Science and Engineering at the School of Management, Hefei University of Technology, under the supervision of [导师姓名]. My research lies at the intersection of artificial intelligence and operations research, with a focus on leveraging large language models to solve complex real-world problems.
+I am a Ph.D. candidate in Management Science and Engineering at the School of Management, Hefei University of Technology. My research lies at the intersection of artificial intelligence and operations research, with a focus on leveraging large language models to solve complex real-world problems.
 
 ## Research Interests
 
